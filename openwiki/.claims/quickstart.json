@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "pageVersion": "sha256:40b9656091ddf90a79d02dd3a1503d05543da8e87bec43e4eb4e64c2b2b773cd",
+  "claims": [
+    {
+      "id": "claim_7cfaccc864594d45a751cb2bebd154f5",
+      "statement": "Die README enthält nur die Überschrift paperclip. Weiterer Quelltext, Tests oder Workflows liegen nicht im Repository.",
+      "evidence": [
+        {
+          "resource": "repo://README.md",
+          "version": "repo-file-v1:sha256:ba1e94627472c9996c80646c7efd5f905e61af1dce6f27ec0d83e31197953e44"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "by": "openwiki/0.7.2",
+    "at": "2026-10-25T08:07:25.193Z"
+  }
+}
